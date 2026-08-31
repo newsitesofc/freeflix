@@ -1,5 +1,29 @@
 [
   {
+    "id": "VENOM",
+    "titulo": "Venom",
+    "capa": "Venom.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer2",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VENOMTMPDCRNFNA",
+    "titulo": "Venom: Tempo de Carnificina",
+    "capa": "Venom_Tempo_De_Carnificina.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VENOMAULTMRDADA",
+    "titulo": "Venom: A Última Rodada",
+    "capa": "Tropa_de_Elite.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer3",
+    "subfolder": "ondemand"
+  },
+  {
     "id": "TRPDELT1",
     "titulo": "Tropa de Elite",
     "capa": "Tropa_de_Elite.jpg",
