@@ -1,5 +1,13 @@
 [
   {
+    "id": "365DIAS",
+    "titulo": "365 Dias",
+    "capa": "365_Dias.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer5",
+    "subfolder": "ondemand"
+  },
+  {
     "id": "ONGBK1",
     "titulo": "Ong Bak: Guerreiro Sagrado",
     "capa": "Ong_Bak.jpg",
